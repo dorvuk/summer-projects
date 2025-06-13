@@ -22,7 +22,7 @@ The result: a normalized, weighted popularity score for each character — and a
 
 ## Final Output
 
-![Viral Popularity Chart](./assets/popularity_chart.png)
+![Viral Popularity Chart](./popularity_chart.png)
 
 - Results normalized 0–1
 - Weighted score = Reddit (40%) + Google Trends (30%) + YouTube (30%)
