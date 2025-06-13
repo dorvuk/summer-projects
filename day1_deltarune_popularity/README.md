@@ -6,7 +6,7 @@ This project analyzes character popularity in the Deltarune/Undertale universe u
 - Google Trends search volume
 - YouTube video titles & views
 
-The result: a normalized, weighted popularity score for each character — and a viral-style visual to go with it.
+The result: a normalized, weighted popularity score for each character.
 
 ---
 
