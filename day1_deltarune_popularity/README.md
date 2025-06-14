@@ -1,4 +1,4 @@
-#Day 1 – Deltarune Character Popularity
+# Day 1 – Deltarune Character Popularity
 
 This project analyzes character popularity in the Deltarune/Undertale universe using real-world data from:
 
