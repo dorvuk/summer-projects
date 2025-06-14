@@ -17,11 +17,12 @@ The goal: **have fun, stay sharp, and build a portfolio.**
 
 ---
 
-## Stack I'm Using
+## Stack I'm Using (for now)
 
-- Python (pandas, matplotlib, scikit-learn)
-- Reddit API, YouTube API, Google Trends
-- Data scraping (SNScrape, PyTrends, PRAW)
+- Python (requests, pandas, matplotlib, GeoPandas)
+- Public + authenticated game APIs (Chess.com, osu!, Faceit, Riot)
+- Data normalization + merging across domains
+- Geospatial visualization (Natural Earth shapefiles, mapclassify)
 - Git + GitHub
 - `.env`-based secret management
 
