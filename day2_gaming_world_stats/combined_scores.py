@@ -84,4 +84,4 @@ for code, score in final_scores.items():
 with open("combined_normalized_scores.json", "w") as f:
     json.dump(final_named, f, indent=2)
 
-print("✅ combined_normalized_scores.json saved.")
+print("combined_normalized_scores.json saved.")
