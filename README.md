@@ -14,6 +14,7 @@ The goal: **have fun, stay sharp, and build a portfolio.**
 |-----|-------|--------|
 | [Day 1](./day1_deltarune_popularity) | Deltarune Character Popularity | Web scraping, data normalization, visualization |
 | [Day 2](./day2_gaming_world_stats) | Global Gaming Skill Index | API integration, data merging, geospatial visualization |
+| [Day 3](./day3_global_education) | Global Education Trends | Time series analysis, slope-based growth, world map |
 
 ---
 
