@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 *.pkl
 .DS_Store
+# Ignore raw World Bank data files
+day3_global_education/wdi-csv-zip-57-mb-/
+day3_global_education/wdi-excel-zip-59-mb-/
