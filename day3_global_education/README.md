@@ -21,17 +21,23 @@ This project analyzes international education data using the World Bank’s Worl
 
 ## Final Output
 
-- `primary_secondary.png`  
-  → Global trends in basic education (primary + secondary)
+### Global trends in basic education (primary + secondary)
+![Primary and Secondary](primary_secondary.png)
 
-- `higher_education.png`  
-  → Composite higher ed enrollment/attainment index over time
+---
 
-- `fastest_growing.png`  
-  → Top 15 countries increasing tertiary attainment the fastest (slope)
+### Composite higher ed enrollment/attainment index over time
+![Higher Education](higher_education.png)
 
-- `education_growth_world_map.png`  
-  → World map showing country-level growth in higher education index
+---
+
+### Top 15 countries increasing tertiary attainment the fastest (slope)
+![Fastest Growing Countries](fastest_growing.png)
+
+---
+
+### World map showing country-level growth in higher education index
+![World Map](education_growth_world_map.png)
 
 ---
 
