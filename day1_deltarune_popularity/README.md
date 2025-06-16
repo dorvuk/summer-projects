@@ -1,6 +1,6 @@
 # Day 1 – Deltarune Character Popularity
 
-This project analyzes character popularity in the Deltarune/Undertale universe using real-world data from:
+This project analyzes character popularity in the Deltarune/Undertale universe after the recent release of new chapters using real-world data from:
 
 - Reddit discussions
 - Google Trends search volume
