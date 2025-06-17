@@ -57,7 +57,7 @@ Result: 10
 ![2 — 1 + 4 • 2 / 1](sample_expressions/test5.png)
 
 ```bash
-python expression_solver.py sample_expressions/test5.png
+python expression_solver.py sample_expressions/test3.png
 ```
 
 ```
@@ -72,7 +72,7 @@ Result: 9.0
 ![22 — 32](sample_expressions/test3.png)
 
 ```bash
-python expression_solver.py sample_expressions/test3.png
+python expression_solver.py sample_expressions/test5.png
 ```
 
 ```
